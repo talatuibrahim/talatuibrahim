@@ -14,7 +14,8 @@ Hello, welcome to my Github profile. I'm a developer currently based in Abuja
 ![Markdown](https://img.shields.io/badge/-Markdown-181717?style=flat-square&logo=markdown&logoColor=white)
 ![Materialize](https://img.shields.io/badge/-MaterializeCSS-ee6e73?style=flat-square&logo=html5&logoColor=white)
 
-[![My Github Stats](https://github-readme-stats.vercel.appi?username=talatuibrahim=prs merged percentage&show icons=trust&theme=transparent&hide tittle=truebank icon=github&card width=400)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Talatu&show=prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&hide_title=true&rank_icon=github&card_width=400)](https://github.com/anuraghazra/github-readme-stats) 
+
 
 You can reach me via:
 
