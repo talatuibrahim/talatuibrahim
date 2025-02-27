@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Talatuibrahim%20Okoroafor&textBg=false&fontColor=fff&fontSize=50&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Talatu%20Ibrahim&textBg=false&fontColor=fff&fontSize=50&section=header)
 
 Hello, welcome to my Github profile. I'm a developer currently based in Abuja
 
@@ -18,9 +18,8 @@ Hello, welcome to my Github profile. I'm a developer currently based in Abuja
 You can reach me via:
 
 [ <img height="24" width="24" src="https://cdn.simpleicons.org/gmail"/> ](mailto:italatu95@gmai.com)
-[ <img height="24" width="24" src="https://cdn.simpleicons.org/gmail"/> ](https://www.intagram,com/leah ibrahim hussaini )
-[ <img height="24" width="24" src="https://cdn.simpleicons.org/gmail"/> ](https://www.facebook.com/leah ibrahim hussaini)
-[ <img height="24" width="24" src="https://cdn.simpleicons.org/gmail"/> ](https://www.youtube.com/talatu ibrahim)
+[ <img height="24" width="24" src="https://cdn.simpleicons.org/instagram"/> ](https://www.instagram,com/leahibrahimhussaini )
+[ <img height="24" width="24" src="https://cdn.simpleicons.org/facebook"/> ](https://www.facebook.com/leahibrahimhussaini)
 
 
 
