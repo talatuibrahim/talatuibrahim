@@ -6,11 +6,12 @@ Hello, welcome to my Github profile. I'm a developer currently based in Abuja
 
 #### What i work with:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/-css3-1272B6?style=flat-square&logo=html5&logoColor=white)
-![javascript](https://img.shields.io/badge/-javascript-F0DB4?style=flat-square&logo=html5&logoColor=white)
-![php](https://img.shields.io/badge/-php-E34F26?style=flat-square&logo=html5&logoColor=white)
-![markdown](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/-HTML5-181717?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+---
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-181717?style=flat-square&logo=markdown&logoColor=white)
 ![Materialize](https://img.shields.io/badge/-MaterializeCSS-ee6e73?style=flat-square&logo=html5&logoColor=white)
 
 [![My Github Stats](https://github-readme-stats.vercel.appi?username=talatuibrahim=prs merged percentage&show icons=trust&theme=transparent&hide tittle=truebank icon=github&card width=400)](https://github.com/anuraghazra/github-readme-stats)
